@@ -1,29 +1,16 @@
-# Hi, I'm Ikhsan
+### Ikhsan
 
-Software engineer at PT Kreasindo Cipta Teknologi, based in Indonesia.
-I write the spec, AI agents help write the code, and I verify it before it ships.
+Software Engineer at PT Kreasindo Cipta Teknologi, Indonesia.
 
-## How I work
+I build web applications, backend services, and mobile and desktop apps. My work covers API integration, API documentation, and deployment. I start every change from a written specification.
 
-```mermaid
-flowchart LR
-  A[Spec<br/>OpenSpec] --> B[Implement<br/>AI coding agents] --> C[Review & verify] --> D[Ship]
-```
+**Stack**
 
-## Stack
+| Area | Technologies |
+|---|---|
+| Frontend | TypeScript, React, Next.js, Angular, Tailwind CSS |
+| Backend | Go, Node.js, Django |
+| Mobile & desktop | Flutter, Rust, Tauri |
+| Data & infra | PostgreSQL, Redis, Docker, Camunda |
 
-**Frontend:** TypeScript, React, Next.js, Angular, Tailwind CSS<br/>
-**Backend:** Go (Gin, Echo), Node.js, Django<br/>
-**Mobile & desktop:** Flutter, Rust with Tauri<br/>
-**Data & infra:** PostgreSQL, Redis, Docker<br/>
-**Workflow:** Camunda
-
-## Currently
-
-- API integrations and formal API documentation.
-- Running parallel AI agent sessions in Orca.
-- Building desktop apps with Rust and Tauri.
-
-## Find me
-
-Coding content on Instagram: [@ikhsan.code](https://www.instagram.com/ikhsan.code/)
+**Contact:** [Instagram](https://www.instagram.com/ikhsan.code/)
